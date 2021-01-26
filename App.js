@@ -1,7 +1,5 @@
 import * as React from 'react';
 
-import pronote from 'pronote-api';
-
 import {createMaterialBottomTabNavigator} from '@react-navigation/material-bottom-tabs';
 import {NavigationContainer} from '@react-navigation/native';
 import {createStackNavigator} from '@react-navigation/stack';
