@@ -146,7 +146,7 @@ export default class algo extends React.Component {
     async LoginTo(username, password, url) {
         console.log("--------------------------------async Login-----------------------------------");
         console.log("======> download start")
-        let resp = await fetch('https://api.e-tp.hosterfy.fr/Pronote?username=' + username + '&password=' + password + '&url=' + url, {
+        let resp = await fetch('https://<SERVER_PRIVEE>/Pronote?username=' + username + '&password=' + password + '&url=' + url, {
             method: 'POST',
             mode: 'cors'
         })
