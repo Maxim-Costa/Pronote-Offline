@@ -4,7 +4,7 @@
 
 ## L'idée :
 Le but est de créer une application ***light*** de Pronote avec une fonctionnalité en plus : le mode hors ligne.
-Cette application n'a pas pour but de remplacer l'application Pronote mais juste de simplifier son utilisation quand les élève sont dans leur établissement ou s'ils n’ont pas de connexion.
+Cette application n'a pas pour but de remplacer l'application Pronote mais juste de simplifier son utilisation quand les élèves sont dans leur établissement ou s'ils n’ont pas de connexion.
 
 ## Les technos : 
 
