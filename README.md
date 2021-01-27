@@ -32,8 +32,8 @@ quelques idée de design de pages réaliser:
 
 la version final :
 
-| <img src="https://i.ibb.co/JkqMw3b/Screenshot-2020-10-10-01-01-44-054-host-exp-exponent.jpg" height="100"> |
-| -- |
+| ![final-page](https://i.ibb.co/JkqMw3b/Screenshot-2020-10-10-01-01-44-054-host-exp-exponent.jpg) | Page à venir |
+| -- | -- |
 
 Les couleurs
 
