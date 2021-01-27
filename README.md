@@ -25,7 +25,7 @@ Le design de départ :
 
 ![react](https://drive.google.com/uc?export=view&id=154MK-jdvd2cZIrH_nYepodrSkIsPBvdZ)
 
-quelques pages on été refaite : 
+quelques design de pages: 
 
 
 | ![New page](https://i.ibb.co/YkVrK3X/Screenshot-2020-09-25-21-27-05-531-host-exp-exponent.jpg) | ![New page](https://i.ibb.co/7kFHJjb/Screenshot-2020-09-26-15-41-12-728-host-exp-exponent.jpg) |
