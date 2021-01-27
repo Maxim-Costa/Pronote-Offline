@@ -33,3 +33,8 @@ quelques design de pages:
 
 | Palette du mode light![Palette light](https://drive.google.com/uc?export=view&id=10IPJD5UyhWaQPHR8zryGVwreoznpqJEN) | Palette du mode dark ![Palette light](https://drive.google.com/uc?export=view&id=1Sgb-aJpBArn68hMddMTF-4xoCzlAt0qL) |
 |--|--|
+
+la version final :
+
+| <img src="https://i.ibb.co/JkqMw3b/Screenshot-2020-10-10-01-01-44-054-host-exp-exponent.jpg" height="100"> |
+| -- |
