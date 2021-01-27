@@ -31,5 +31,5 @@ quelques pages on été refaite :
 | ![New page](https://i.ibb.co/YkVrK3X/Screenshot-2020-09-25-21-27-05-531-host-exp-exponent.jpg) | ![New page](https://i.ibb.co/7kFHJjb/Screenshot-2020-09-26-15-41-12-728-host-exp-exponent.jpg) |
 |--|--|
 
-| Palette du mode light![Palette light](https://drive.google.com/uc?export=view&id=10IPJD5UyhWaQPHR8zryGVwreoznpqJEN) | Palette du mode dark![Palette light (https://drive.google.com/uc?export=view&id=1Sgb-aJpBArn68hMddMTF-4xoCzlAt0qL) |
+| Palette du mode light![Palette light](https://drive.google.com/uc?export=view&id=10IPJD5UyhWaQPHR8zryGVwreoznpqJEN) | Palette du mode dark ![Palette light (https://drive.google.com/uc?export=view&id=1Sgb-aJpBArn68hMddMTF-4xoCzlAt0qL) |
 |--|--|
